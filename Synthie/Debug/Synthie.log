@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  CFlangerEffect.cpp
+C:\Users\orhan\Desktop\Step5asil\Synthie\CFlangerEffect.cpp(36,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/CFlangerEffect.cpp')
+  
+AR.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Synthie.vcxproj -> C:\Users\orhan\Desktop\Step5asil\Debug\Synthie.exe

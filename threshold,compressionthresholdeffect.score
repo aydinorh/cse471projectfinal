@@ -1,0 +1,51 @@
+<score bpm="120" beatspermeasure="2">
+    <instrument instrument="ToneInstrument">
+       &#160;&#160;&#160;<note measure="1" beat="2" duration="0.33" note="F4" threshold="0.07" compressionThreshold="0.5" compressionRatio="4.0"/>
+       &#160;&#160;&#160;<note measure="1" beat="2.33" duration="0.33" note="G4" threshold="0.07" compressionThreshold="0.5" compressionRatio="6.0"/>
+       &#160;&#160;&#160;<note measure="1" beat="2.6" duration="0.33" note="A4" threshold="0.07" compressionThreshold="0.5" compressionRatio="4.0"/>
+
+       &#160;&#160;&#160;<note measure="2" beat="1" duration="0.5" note="Bb4" threshold="0.07" compressionThreshold="0.5" compressionRatio="4.0"/>
+       &#160;&#160;&#160;<note measure="2" beat="1" duration="0.5" note="G4" threshold="0.07" compressionThreshold="0.5" compressionRatio="4.0"/>
+       &#160;&#160;&#160;<note measure="2" beat="1" duration="0.5" note="Eb4" threshold="0.07" compressionThreshold="0.5" compressionRatio="4.0"/>
+
+       &#160;&#160;&#160;<note measure="3" beat="1" duration="0.5" note="Bb4" threshold="0.07" />
+       &#160;&#160;&#160;<note measure="3" beat="1" duration="0.5" note="G4" threshold="0.07" />
+       &#160;&#160;&#160;<note measure="3" beat="1" duration="0.5" note="Eb4" threshold="0.07" />
+
+       &#160;&#160;&#160;<note measure="4" beat="1" duration="0.5" note="Bb4" />
+       &#160;&#160;&#160;<note measure="4" beat="1" duration="0.5" note="D4" />
+       &#160;&#160;&#160;<note measure="4" beat="1" duration="0.5" note="F4" />
+
+       &#160;&#160;&#160;<note measure="4" beat="2" duration="0.5" note="Bb4" />
+       &#160;&#160;&#160;<note measure="4" beat="2" duration="0.5" note="G4" />
+       &#160;&#160;&#160;<note measure="4" beat="2" duration="0.5" note="Eb4" />
+
+       &#160;&#160;&#160;<note measure="5" beat="1" duration="0.5" note="Bb4" />
+       &#160;&#160;&#160;<note measure="5" beat="1" duration="0.5" note="D4" />
+       &#160;&#160;&#160;<note measure="5" beat="1" duration="0.5" note="F4" />
+
+       &#160;&#160;&#160;<note measure="6" beat="1" duration="0.5" note="G4" />
+       &#160;&#160;&#160;<note measure="6" beat="1.5" duration="0.5" note="F#4" />
+       &#160;&#160;&#160;<note measure="6" beat="2" duration="0.5" note="G4" />
+       &#160;&#160;&#160;<note measure="6" beat="2.5" duration="0.5" note="G#4" />
+
+       &#160;&#160; <note measure="7" beat="1" duration="1" note="A4" />
+       &#160;&#160; <note measure="7" beat="2" duration="1" note="F4" />
+
+       &#160;&#160; <note measure="8" beat="1" duration="3" note="Bb4" />
+       &#160;&#160; <note measure="8" beat="1" duration="3" note="F4" />
+       &#160;&#160; <note measure="8" beat="1" duration="3" note="D4" />
+</instrument>
+  <instrument instrument="CDrumInstrument">
+        <note measure="2" beat="1" duration="1.0" type="bass" />
+        <note measure="2" beat="1.5" duration="0.5" type="snare" />
+        <note measure="2" beat="2" duration="0.5" type="tom" />
+        <note measure="2" beat="2.5" duration="0.5" type="cymbal" />
+
+        <note measure="3" beat="1" duration="0.5" type="bass" />
+        <note measure="3" beat="1.5" duration="0.5" type="snare" />
+        <note measure="3" beat="2" duration="0.5" type="tom" />
+        <note measure="3" beat="2.5" duration="0.5" type="cymbal" />
+
+    </instrument>
+    </score>

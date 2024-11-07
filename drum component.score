@@ -1,0 +1,71 @@
+    <score bpm="138" beatspermeasure="4">
+    
+    <instrument instrument="CDrumInstrument">
+        
+        <note measure="1" beat="1" duration="1.0" type="bass" />
+        <note measure="1" beat="2" duration="1.0" type="snare" />
+        <note measure="1" beat="3" duration="1.0" type="bass" />
+        <note measure="1" beat="4" duration="1.0" type="snare" />
+
+        <note measure="2" beat="1" duration="1.0" type="bass" />
+        <note measure="2" beat="2" duration="1.0" type="snare" />
+        <note measure="2" beat="3" duration="1.0" type="bass" />
+        <note measure="2" beat="4" duration="1.0" type="snare" />
+
+        <note measure="3" beat="1" duration="1.0" type="bass" />
+        <note measure="3" beat="2" duration="1.0" type="snare" />
+        <note measure="3" beat="3" duration="1.0" type="tom" />
+        <note measure="3" beat="4" duration="1.0" type="cymbal" />
+
+        <note measure="4" beat="1" duration="1.0" type="bass" />
+        <note measure="4" beat="2" duration="1.0" type="snare" />
+        <note measure="4" beat="3" duration="1.0" type="tom" />
+        <note measure="4" beat="4" duration="1.0" type="cymbal" />
+        
+        
+        <note measure="5" beat="1" duration="1.0" type="bass" />
+        <note measure="5" beat="2" duration="1.0" type="snare" />
+        <note measure="5" beat="3" duration="1.0" type="bass" />
+        <note measure="5" beat="4" duration="1.0" type="snare" />
+
+        <note measure="6" beat="1" duration="1.0" type="bass" />
+        <note measure="6" beat="2" duration="1.0" type="snare" />
+        <note measure="6" beat="3" duration="1.0" type="bass" />
+        <note measure="6" beat="4" duration="1.0" type="snare" />
+
+        <note measure="7" beat="1" duration="1.0" type="bass" />
+        <note measure="7" beat="2" duration="1.0" type="snare" />
+        <note measure="7" beat="3" duration="1.0" type="tom" />
+        <note measure="7" beat="4" duration="1.0" type="cymbal" />
+
+        <note measure="8" beat="1" duration="1.0" type="bass" />
+        <note measure="8" beat="2" duration="1.0" type="snare" />
+        <note measure="8" beat="3" duration="1.0" type="tom" />
+        <note measure="8" beat="4" duration="1.0" type="cymbal" />
+
+
+  	<note measure="9" beat="1" duration="1.0" type="bass" />
+        <note measure="9" beat="2" duration="1.0" type="snare" />
+        <note measure="9" beat="3" duration="1.0" type="tom" />
+        <note measure="9" beat="4" duration="1.0" type="cymbal" />
+
+
+ 	<note measure="10" beat="1" duration="1.0" type="bass" />
+        <note measure="10" beat="2" duration="1.0" type="snare" />
+        <note measure="10" beat="3" duration="1.0" type="tom" />
+        <note measure="10" beat="4" duration="1.0" type="cymbal" />
+
+  	<note measure="11" beat="1" duration="1.0" type="bass" />
+        <note measure="11" beat="2" duration="1.0" type="snare" />
+        <note measure="11" beat="3" duration="1.0" type="tom" />
+        <note measure="11" beat="4" duration="1.0" type="cymbal" />
+
+
+	<note measure="12" beat="1" duration="1.0" type="bass" />
+        <note measure="12" beat="2" duration="1.0" type="snare" />
+        <note measure="12" beat="3" duration="1.0" type="tom" />
+        <note measure="12" beat="4" duration="1.0" type="cymbal" />
+
+    </instrument>
+    </score>
+   

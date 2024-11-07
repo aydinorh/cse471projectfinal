@@ -1,0 +1,59 @@
+﻿  stdafx.cpp
+  AR.cpp
+  AudioNode.cpp
+  DirSound.cpp
+  DirSoundSource.cpp
+  DirSoundStream.cpp
+  CDrumInstrument.cpp
+  ChorusEffect.cpp
+  CReverbEffect.cpp
+C:\Users\orhan\Desktop\Step5\Synthie\ChorusEffect.cpp(35,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/ChorusEffect.cpp')
+  
+C:\Users\orhan\Desktop\Step5\Synthie\ChorusEffect.cpp(49,24): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file '/ChorusEffect.cpp')
+  
+  Effect.cpp
+  Instrument.cpp
+  MainFrm.cpp
+  Note.cpp
+  Notes.cpp
+  Progress.cpp
+  ProgressDlg.cpp
+  SineWave.cpp
+C:\Users\orhan\Desktop\Step5\Synthie\SineWave.cpp(48,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/SineWave.cpp')
+  
+  Synthesizer.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         ]
+  (compiling source file '/Synthesizer.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56):
+      the template instantiation context (the oldest one first) is
+          C:\Users\orhan\Desktop\Step5\Synthie\Synthesizer.cpp(10,28):
+          see reference to function template instantiation 'std::unique_ptr<CChorusEffect,std::default_delete<CChorusEffect>> std::make_unique<CChorusEffect,int,0>(int &&)' being compiled
+  
+  Synthie.cpp
+  SynthieView.cpp
+  Wave.cpp
+  Compiling...
+  WaveformBuffer.cpp
+  WaveformWnd.cpp
+  ToneInstrument.cpp
+C:\Users\orhan\Desktop\Step5\Synthie\ToneInstrument.cpp(102,33): warning C4244: 'argument': conversion from 'DOUBLE' to 'float', possible loss of data
+  (compiling source file '/ToneInstrument.cpp')
+  
+C:\Users\orhan\Desktop\Step5\Synthie\ToneInstrument.cpp(107,44): warning C4244: 'argument': conversion from 'DOUBLE' to 'float', possible loss of data
+  (compiling source file '/ToneInstrument.cpp')
+  
+C:\Users\orhan\Desktop\Step5\Synthie\ToneInstrument.cpp(112,40): warning C4244: 'argument': conversion from 'DOUBLE' to 'float', possible loss of data
+  (compiling source file '/ToneInstrument.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1301 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Synthie.vcxproj -> C:\Users\orhan\Desktop\Step5\Release\Synthie.exe
